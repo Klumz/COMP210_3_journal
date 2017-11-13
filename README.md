@@ -17,7 +17,7 @@ This paper explores the idea of having users adapt and immerse themselves in VR 
 
 
 ## [(Re-)examination of multimodal augmented reality](https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=3001961)
-
+There is no concrete definition of what Augmented Reality is. This is why Milgram and Kishino have attempted to create distinctions between the different realities, which are the real, mediated and virtual world. Real being the physical world, mediated meaning percieving real world data through digital forms and virtual being computer generated objects viewed through a digital form. Overall, this paper discusses various ways to view AR.
 
 ## [Real Virtuality: A Code of Ethical Conduct. Recommendations for Good Scientific Practice and the Consumers of VR-Technology](https://www.frontiersin.org/articles/10.3389/frobt.2016.00003/full)
 
